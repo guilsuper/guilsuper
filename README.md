@@ -32,7 +32,7 @@ I proficient at:
 These capabilities enable me to deliver high-quality, scalable, and efficient software solutions. I am always open to new challenges, and I look forward to contributing my expertise toward achieving team goals and pushing technological boundaries.
 
 ---
-[![Guilherme's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=quilsuper&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Guilherme's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=guilsuper&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
 <div align="center">
