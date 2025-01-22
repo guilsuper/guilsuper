@@ -32,9 +32,7 @@ I proficient at:
 These capabilities enable me to deliver high-quality, scalable, and efficient software solutions. I am always open to new challenges, and I look forward to contributing my expertise toward achieving team goals and pushing technological boundaries.
 
 ---
-[![Guilherme's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=guilsuper&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
----
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -74,5 +72,9 @@ These capabilities enable me to deliver high-quality, scalable, and efficient so
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilsuper&hide_progress=true)
+
 
 
