@@ -73,8 +73,5 @@ These capabilities enable me to deliver high-quality, scalable, and efficient so
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilsuper&hide_progress=false)
-
 
 
