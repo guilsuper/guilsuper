@@ -74,7 +74,7 @@ These capabilities enable me to deliver high-quality, scalable, and efficient so
 </div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilsuper&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilsuper&hide_progress=false)
 
 
 
